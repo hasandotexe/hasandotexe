@@ -26,6 +26,12 @@
 
 ---
 
+### 🔥 Codeforces Activity
+
+[![Hamim's CF Heatmap](https://cfstats.vercel.app/api/heatmap?handle=Hamim_Hasan)](https://codeforces.com/profile/Hamim_Hasan)
+
+---
+
 ### 🧩 LeetCode Stats
 
 [![Hamim's LeetCode stats](https://leetcard.jacoblin.cool/Hamim_Hasan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Hamim_Hasan)

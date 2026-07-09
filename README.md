@@ -26,11 +26,9 @@
 
 ---
 
-### 🔥 Codeforces Activity
+### 🔥 Codeforces Analytics
+[📊 View my full Codeforces heatmap & analytics →](https://cfstats.vercel.app/Hamim_Hasan)
 
-[![Hamim's CF Heatmap](https://cfstats.vercel.app/api/heatmap?handle=Hamim_Hasan)](https://codeforces.com/profile/Hamim_Hasan)
-
----
 
 ### 🧩 LeetCode Stats
 

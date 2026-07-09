@@ -23,6 +23,12 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+[![Hamim's LeetCode stats](https://leetcard.jacoblin.cool/Hamim_Hasan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Hamim_Hasan)
+
+---
+
 ### 🐙 GitHub Stats
 
 <p align="center">

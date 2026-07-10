@@ -22,8 +22,7 @@
 
 ### 📊 Codeforces Stats
 
-[![Codeforces Stats](https://raw.githubusercontent.com/hasandotexe/cf-stats/main/output/light_card.svg)](https://codeforces.com/profile/Hamim_Hasan)
-
+[![Codeforces Stats](https://raw.githubusercontent.com/hasandotexe/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/Hamim_Hasan)
 ---
 
 

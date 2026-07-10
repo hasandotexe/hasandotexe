@@ -22,7 +22,7 @@
 
 ### 📊 Codeforces Stats
 
-[![Hamim's Codeforces stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan)](https://codeforces.com/profile/Hamim_Hasan)
+[![Codeforces Stats](https://raw.githubusercontent.com/hasandotexe/cf-stats/main/output/light_card.svg)](https://codeforces.com/profile/Hamim_Hasan)
 
 ---
 

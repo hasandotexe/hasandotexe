@@ -23,6 +23,7 @@
 ### 📊 Codeforces Stats
 
 [![Codeforces Stats](https://raw.githubusercontent.com/hasandotexe/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/Hamim_Hasan)
+
 ---
 
 
@@ -38,6 +39,9 @@
   <img height="165" src="https://github-readme-stats-peach-sigma-53.vercel.app/api?username=hasandotexe&show_icons=true&theme=dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats-peach-sigma-53.vercel.app/api/top-langs/?username=hasandotexe&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+![snake gif](https://raw.githubusercontent.com/hasandotexe/hasandotexe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/hasandotexe/hasandotexe/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasandotexe&theme=dark&hide_border=true" />

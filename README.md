@@ -20,7 +20,19 @@
 ## 📊 Codeforces Stats
 
    <!--CF_STATS_START-->
-   <!--CF_STATS_END-->
+| Stat | Value |
+|---|---|
+| Rank | Newbie (max: Newbie) |
+| Contest Rating | 740 |
+| Max Contest Rating | 850 |
+| Rated Contests | 7 |
+| Problems Solved | 75 |
+| Submissions | 188 |
+| Friend of | 3 |
+| Contribution | 0 |
+
+*Last updated: 2026-07-16 07:57 UTC*
+<!--CF_STATS_END-->
 ---
 
 ### 🐙 GitHub Stats

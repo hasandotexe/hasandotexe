@@ -22,8 +22,7 @@
 
 ### 📊 Codeforces Stats
 
-![Codeforces Stats](https://some-stats-service.com/api?username=hasandotexe)
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan)
 ---
 
 

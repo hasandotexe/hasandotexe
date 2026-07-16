@@ -3,7 +3,7 @@
 
 <p align="center">
   I enjoy solving algorithmic problems and grinding competitive programming.
-  Currently sharpening my skills on Codeforces and LeetCode.
+  Currently sharpening my skills on Codeforces.
 </p>
 
 <p align="center">

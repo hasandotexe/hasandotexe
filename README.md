@@ -13,9 +13,6 @@
   <a href="https://codeforces.com/profile/Hamim_Hasan" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/Hamim_Hasan" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
 </p>
 
 ---
@@ -23,12 +20,6 @@
 ### 📊 Codeforces Stats
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan)
----
-
-
-### 🧩 LeetCode Stats
-
-[![Hamim's LeetCode stats](https://leetcard.jacoblin.cool/Hamim_Hasan?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Hamim_Hasan)
 
 ---
 

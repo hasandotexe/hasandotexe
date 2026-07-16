@@ -19,7 +19,7 @@
 
 ### 📊 Codeforces Stats
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan&_=1)
 
 ---
 

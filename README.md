@@ -17,10 +17,10 @@
 
 ---
 
-### 📊 Codeforces Stats
+## 📊 Codeforces Stats
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Hamim_Hasan&_=1)
-
+   <!--CF_STATS_START-->
+   <!--CF_STATS_END-->
 ---
 
 ### 🐙 GitHub Stats

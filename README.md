@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hamim Hasan 👋</h1>
+<h1 align="center">Hi, I'm Hamim Hasan </h1>
 <h3 align="center">Competitive Programmer | Problem Solver</h3>
 
 <p align="center">

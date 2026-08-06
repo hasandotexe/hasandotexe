@@ -23,15 +23,15 @@
 | Stat | Value |
 |---|---|
 | Rank | Newbie (max: Newbie) |
-| Contest Rating | 740 |
+| Contest Rating | 718 |
 | Max Contest Rating | 850 |
-| Rated Contests | 8 |
-| Problems Solved | 98 |
-| Submissions | 232 |
+| Rated Contests | 9 |
+| Problems Solved | 100 |
+| Submissions | 234 |
 | Friend of | 3 |
 | Contribution | 0 |
 
-*Last updated: 2026-08-05 05:47 UTC*
+*Last updated: 2026-08-06 05:49 UTC*
 <!--CF_STATS_END-->
 ---
 

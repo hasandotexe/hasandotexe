@@ -26,12 +26,12 @@
 | Contest Rating | 749 |
 | Max Contest Rating | 850 |
 | Rated Contests | 10 |
-| Problems Solved | 107 |
-| Submissions | 248 |
+| Problems Solved | 110 |
+| Submissions | 260 |
 | Friend of | 3 |
 | Contribution | 0 |
 
-*Last updated: 2026-08-08 04:10 UTC*
+*Last updated: 2026-08-09 04:18 UTC*
 <!--CF_STATS_END-->
 ---
 

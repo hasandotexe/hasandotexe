@@ -39,10 +39,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasandotexe&theme=dark&hide_border=true" />
-</p>
-
 
 ![snake gif](https://raw.githubusercontent.com/hasandotexe/hasandotexe/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/hasandotexe/hasandotexe/output/github-contribution-grid-snake.svg#gh-light-mode-only)

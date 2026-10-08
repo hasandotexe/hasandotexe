@@ -17,9 +17,11 @@
 
 ---
 
-## 📊 Codeforces Stats
+<h2 align="center">📊 Codeforces Stats</h2>
 
-   <!--CF_STATS_START-->
+<div align="center">
+
+<!--CF_STATS_START-->
 | Stat | Value |
 |---|---|
 | Rank | Newbie (max: Newbie) |
@@ -33,6 +35,9 @@
 
 *Last updated: 2026-10-08 10:09 UTC*
 <!--CF_STATS_END-->
+
+</div>
+
 ---
 
 ### 🐙 GitHub Stats
